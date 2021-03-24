@@ -1,2 +1,6 @@
 #Created By Sushaan Patel
-print("hi")
+def start():
+    wther_loca = str(input("Location : "))
+    print(wther_loca)
+
+start()
